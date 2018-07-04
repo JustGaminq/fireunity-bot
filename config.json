@@ -1,0 +1,19 @@
+{
+  "prefix" : "!",
+  "salesrep": "Sales Representative",
+
+  "_comment": "Who can use '!setrep'",
+  "setreprole": "Sales Representative",
+
+  "__comment": "The commission channel",
+  "comChannel": "commissions",
+
+  "___comment": "The color of each embed [HEX]",
+  "embedcolor": "#0059ff",
+
+  "____comment": "Status will come out as 'Playing {status}'",
+  "status": "!new | Client Bot",
+
+  "footer": "Fortnite Market Bot | 2018",
+  "token" : "NDYxMTcyNjA1NjEzODk5Nzg3.DhUBJg.j0ZFRYo_7de2vEluEVXPAD345Tk"
+}
